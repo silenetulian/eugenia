@@ -2893,7 +2893,7 @@ animation: spineer 2s infinite;
     top: 3%;
     width: 90%;
     height: 90%;
-    background: rgba(133,170,186,.8);
+    background: rgba(0, 60, 255, 0.8);
     transition: all .3s;
     z-index: 9;
     visibility: hidden;
@@ -3029,7 +3029,7 @@ animation: spineer 2s infinite;
 }
 
 .rsvp-wrap {
-    background: rgba(133,170,186,.8);
+    background: rgba(135, 133, 186, 0.8);
     padding: 70px;
     border-top-left-radius: 90px;
     border-bottom-right-radius: 90px;

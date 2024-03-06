@@ -1552,7 +1552,7 @@ div#preloader {
   text-align: left;
 }
 .hero-slider .slide-inner .slide-content{
-  background: rgba(133,170,186,.8);
+  background: rgba(0, 60, 255, 0.8);
   border-top-right-radius: 80px;
   border-bottom-left-radius: 80px;
   -webkit-animation: spineer 2s infinite;
